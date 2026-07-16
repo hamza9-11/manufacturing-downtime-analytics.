@@ -109,7 +109,7 @@ Provides interactive What-If analysis that allows users to simulate downtime red
 
 ### 5. Downtime Impact
 
-![Downtime_Impact](Dashboard-Pages/Downtime_Impact-page.png)
+![Downtime_Impact](Dashboard-Pages/Downtime _Impact-page.png)
 
 ---
 
