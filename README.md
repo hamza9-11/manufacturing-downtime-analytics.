@@ -24,7 +24,7 @@ The solution transforms production and downtime records into interactive dashboa
 - Estimated business impact analysis
 - Interactive What-If scenario analysis
 - Dynamic filtering and drill-down capabilities
-- Scalable data model (Galaxy Schema) designed to support continuously growing production data
+- Scalable data model designed to support continuously growing production data
 
 ---
 
@@ -33,7 +33,7 @@ The solution transforms production and downtime records into interactive dashboa
 - Microsoft Power BI
 - Power Query
 - DAX
-- Data Modeling (Star Schema)
+- Data Modeling (Galaxy Schema)
 - Microsoft Excel
 
 ---
