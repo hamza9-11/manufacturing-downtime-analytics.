@@ -80,7 +80,7 @@ Provides interactive What-If analysis that allows users to simulate downtime red
 
 ---
 
-# 📷 Dashboard Pages Preview
+# 📷 Dashboard Preview
 
 
 ### 1. Overview
@@ -122,6 +122,16 @@ Provides interactive What-If analysis that allows users to simulate downtime red
 # 👥 Team
 
 Meet the project team and contributors in **[CONTRIBUTORS.md](CONTRIBUTORS.md)**.
+
+---
+
+# 📂 Dataset
+
+The dataset used in this project is available in the **[Manufacturing_Downtime-Dataset](Manufacturing_Downtime-Dataset)** folder.
+
+Contents:
+- **Manufacturing_Line_Productivity.xlsx** — Production and downtime records used for dashboard development.
+- **data_dictionary.csv** — Description of dataset fields and column definitions.
 
 ---
 
