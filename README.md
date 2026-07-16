@@ -6,9 +6,9 @@
 
 # 📖 Project Overview
 
-Manufacturing downtime directly impacts production efficiency, equipment utilization, and operational profitability. Identifying where downtime occurs, understanding its root causes, and evaluating its business impact are essential for improving manufacturing performance.
+Manufacturing downtime directly affects production efficiency, equipment utilization, and operational profitability. Identifying where downtime occurs, understanding its root causes, and evaluating its business impact are essential for improving manufacturing performance.
 
-This project presents a dynamic and scalable **Business Intelligence solution** developed using **Microsoft Power BI** to analyze production downtime in a **Carbonated Soft Drinks (CSD) manufacturing environment**.
+This project presents a dynamic and scalable **Business Intelligence solution** developed using **Microsoft Power BI** to analyze manufacturing downtime in a **Carbonated Soft Drinks (CSD) manufacturing facility**.
 
 The solution transforms production and downtime records into interactive dashboards that enable performance monitoring, root cause analysis, business impact evaluation, and scenario-based operational planning.
 
@@ -24,7 +24,7 @@ The solution transforms production and downtime records into interactive dashboa
 - Estimated business impact analysis
 - Interactive What-If scenario analysis
 - Dynamic filtering and drill-down capabilities
-- Scalable data model designed for continuously growing production data
+- Scalable data model (Galaxy Schema) designed to support continuously growing production data
 
 ---
 
@@ -44,15 +44,15 @@ The solution transforms production and downtime records into interactive dashboa
 
 Provides an executive summary of production performance using key operational KPIs, including Availability, MTTR, MTBF, Downtime Events, and Total Downtime.
 
-### 2. Process Analysis
+### 2. Process
 
 Analyzes downtime patterns across production processes to identify major downtime categories, root causes, operational bottlenecks, and shift performance.
 
-### 3. Operator Analysis
+### 3. Operator
 
 Evaluates operator performance by comparing downtime events, operator-related errors, and operational efficiency across different operators.
 
-### 4. Product Analysis
+### 4. Product
 
 Compares production performance across products, highlighting downtime distribution, production efficiency, and product-specific operational challenges.
 
@@ -68,45 +68,54 @@ Provides interactive What-If analysis that allows users to simulate downtime red
 
 # 📈 Key KPIs
 
-- Availability
+- Availability %
 - Total Downtime
 - Downtime Events
 - MTTR
 - MTBF
-- Downtime Percentage
+- Downtime %
 - Estimated Profit Loss
 - Production Loss
 - Potential Profit Recovery
 
 ---
 
-# 📷 Dashboard Preview
+# 📷 Dashboard Pages Preview
 
-> *(Dashboard screenshots will be added here.)*
 
-### Overview
+### 1. Overview
 
-![Overview](screenshots/overview.png)
+![Overview](Dashboard-Pages/Overview-page.png)
 
-### Process Analysis
+---
 
-![Process Analysis](screenshots/process-analysis.png)
+### 2. Process
 
-### Operator Analysis
+![Process](Dashboard-Pages/Process-page.png)
 
-![Operator Analysis](screenshots/operator-analysis.png)
+---
 
-### Product Analysis
+### 3. Operators
 
-![Product Analysis](screenshots/product-analysis.png)
+![Operators](Dashboard-Pages/Operator-page.png)
 
-### Downtime Impact
+---
 
-![Downtime Impact](screenshots/downtime-impact.png)
+### 4. Products
 
-### Scenario Analysis
+![Products](Dashboard-Pages/Product-page.png)
 
-![Scenario Analysis](screenshots/scenario-analysis.png)
+---
+
+### 5. Downtime Impact
+
+![Downtime Impact](Dashboard-Pages/Downtime_Impact-page.png)
+
+---
+
+### 6. Scenario Analysis
+
+![Scenario Analysis](Dashboard-Pages/Scenario_Analysis-page.png)
 
 ---
 
