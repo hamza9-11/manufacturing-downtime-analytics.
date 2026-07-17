@@ -119,9 +119,11 @@ Provides interactive What-If analysis that allows users to simulate downtime red
 
 ---
 
-# 👥 Team
+# 📁 Power BI Project File
 
-Meet the project team and contributors in **[CONTRIBUTORS.md](CONTRIBUTORS.md)**.
+The complete Power BI report can be downloaded from the repository.
+
+**Project File:** **[Project.pbix](Project.pbix)**
 
 ---
 
@@ -135,8 +137,13 @@ Contents:
 
 ---
 
+# 👥 Team
+
+Meet the project team and contributors in **[CONTRIBUTORS.md](CONTRIBUTORS.md)**.
+
+---
+
 #  Acknowledgment
 
 This project was developed as the **final graduation project** for the **Digital Egypt Pioneers Initiative (DEPI)** – **Data Analysis Track**.
 
-It demonstrates how manufacturing production data can be transformed into actionable operational insights through a dynamic and scalable Business Intelligence solution built with Microsoft Power BI.
